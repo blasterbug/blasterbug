@@ -9,7 +9,7 @@
 
 <p style="height: 46px"></p>
 
-- I’m currently working at [Nesta](https://www.nesta.se)
+- Cofounder and lead full stuck developer at [Nesta Nordics AB](https://www.nesta.se)
 
 - I’m currently learning **Flutter** 👨🏻‍💻 
 

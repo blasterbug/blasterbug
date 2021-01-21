@@ -9,9 +9,7 @@
 
 <p style="height: 46px"></p>
 
-- Cofounder and lead full stuck developer at [Nesta Nordics AB](https://www.nesta.se)
-
-- I’m currently learning **Flutter** 👨🏻‍💻 
+- Former co-founder and lead full stuck developer at Nesta Nordics AB.
 
 - Ask me about **react**, **kubernetes** and **veganism** 🥦 
 

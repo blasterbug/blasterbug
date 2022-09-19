@@ -1,7 +1,7 @@
 <!-- @format -->
 
 <h1 align="center">Hi, I am Benjamin 🇫🇷 </h1>
-<h3 align="center">A enthusiastic full stack developer👨🏻‍💻 </h3>
+<h3 align="center">Lead full stack developer and Entrepreneur 👨🏻‍💻</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/benjaminsientzoff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminsientzoff" height="30" width="30" /></a>

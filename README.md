@@ -14,6 +14,6 @@
 
 <div style="height: 64px"></div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasterbug&layout=compact" alt="blasterbug" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasterbug&layout=compact" alt="blasterbug" />
 
 
